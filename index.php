@@ -3,7 +3,9 @@ ini_set('display_errors',1);
 @session_start();
 define('ROOT', dirname(__FILE__));
 define('DOMAIN', "mvckb");
-
+/*
+Этот комментарий добавлен для апробации залития изменений в удаленный репозиторий
+*/
 // define('ROOT', ".");
 
 // echo "DIRECTORY_SEPARATOR = ".DIRECTORY_SEPARATOR;
